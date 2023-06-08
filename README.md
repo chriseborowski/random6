@@ -4,6 +4,8 @@
 
 ![Live demo](https://github.com/chriseborowski/random6/blob/main/live-demo.png)
 
+![Live demo video clip](https://github.com/chriseborowski/random6/blob/main/random8-video-clip.mov)
+
 ## About
 
 An interactive game written in Python. Can you guess a random number 1 and 100 in only 6 steps?
@@ -43,6 +45,6 @@ Distributed under the MIT License. See `license.txt` for more information.
 
 Chris Borowski
 
-Follow me @chriseborowski on [GitHub](https://github.com/chriseborowski) / [Replit](https://replit.com/@chriseborowski/) / [Twitter](https://twitter.com/chriseborowski)
+Follow me *chriseborowski* on [GitHub](https://github.com/chriseborowski) / [Replit](https://replit.com/@chriseborowski/) / [Twitter](https://twitter.com/chriseborowski)
 
 Project repository link: [Random6](https://github.com/chriseborowski/random6)
