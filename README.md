@@ -10,6 +10,8 @@ An interactive game written in Python. Can you guess a random number 1 and 100 i
 
 For a live demo of the project on Replit, click [here](https://replit.com/@chriseborowski/Random6).
 
+For a video clip demonstrating the game, click [here](https://twitter.com/chriseborowski/status/1666513865570394131).
+
 ## Getting started
 
 1. Clone the repository to your machine
