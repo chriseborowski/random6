@@ -4,8 +4,6 @@
 
 ![Live demo](https://github.com/chriseborowski/random6/blob/main/live-demo.png)
 
-![Live demo video clip](https://github.com/chriseborowski/random6/blob/main/random6-video-clip.mov)
-
 ## About
 
 An interactive game written in Python. Can you guess a random number 1 and 100 in only 6 steps?
