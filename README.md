@@ -4,7 +4,7 @@
 
 ![Live demo](https://github.com/chriseborowski/random6/blob/main/live-demo.png)
 
-![Live demo video clip](https://github.com/chriseborowski/random6/blob/main/random8-video-clip.mov)
+![Live demo video clip](https://github.com/chriseborowski/random6/blob/main/random6-video-clip.mov)
 
 ## About
 
