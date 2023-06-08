@@ -2,7 +2,7 @@
 
 [View demo](https://replit.com/@chriseborowski/Random6) • [Report bug](https://github.com/chriseborowski/random6/issues) • [Request feature](https://github.com/chriseborowski/random6/issues) • [DM author](https://twitter.com/chriseborowski)
 
-![Live demo](https://github.com/chriseborowski/fahrenheit-to-celsius/blob/main/live_demo.png)
+![Live demo](https://github.com/chriseborowski/random6/blob/main/live-demo.png)
 
 ## About
 
