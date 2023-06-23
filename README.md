@@ -60,7 +60,7 @@ Distributed under the MIT License. See `license.txt` for more information.
 
 Chris Borowski
 
-Follow me *chriseborowski* on [GitHub](https://github.com/chriseborowski) / [Replit](https://replit.com/@chriseborowski/) / [Twitter](https://twitter.com/chriseborowski)
+Follow me **@chriseborowski** on [GitHub](https://github.com/chriseborowski) • [Twitter](https://twitter.com/chriseborowski) • [T2](https://t2.social/chriseborowski) • [LinkedIn](https://www.linkedin.com/in/chriseborowski) • [Linktree](https://linktr.ee/chriseborowski) (all links)
 
 Project repository link: [Random6](https://github.com/chriseborowski/random6)
 * versions: [JavaScript](https://github.com/chriseborowski/random6/blob/main/random6.js) • [Python](https://github.com/chriseborowski/random6/blob/main/random6.py)
